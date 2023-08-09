@@ -1,20 +1,4 @@
-# GLaDOS-checkin
-
-一点小羊毛。**好哥哥们顺手点个 star 吧。**
-
-通过 github action 来实现自动签到，每天签到可以延时一天。
-
-但是当签到一定次数后，将会返回 `Checkin! Get 0 day(Your lucky chance is 33%), try next time.`，大概意思就是 1/3 的几率获得 1 天的奖励。
-
-[GLaDOS 官方 github](https://github.com/glados-network/GLaDOS)，[GLaDOS 官网](https://glados.rocks/)。
-
-如果还没有注册的话，可以去[这里](https://glados.rocks/register)注册，然后填写邀请码：`0HCLD-0XA70-YBI10-Z6836`。双方都可以获得奖励天数哦。
-
-## 步骤
-
-### 1 fork 这个仓库
-
-点击右上角的 fork。
+# checkin
 
 ### 2 获取 cookie
 
